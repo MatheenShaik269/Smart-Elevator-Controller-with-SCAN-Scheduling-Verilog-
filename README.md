@@ -1,0 +1,2 @@
+# Smart-Elevator-Controller-with-SCAN-Scheduling-Verilog-
+A 16-floor Smart Elevator Controller designed in Verilog HDL, combining a 9-state FSM with a SCAN-based scheduling algorithm. It handles multiple floor requests, automatic direction reversal, emergency stop, overweight protection, power failure, generator backup, door control, light, fan, and alarm operations with comprehensive verification.
